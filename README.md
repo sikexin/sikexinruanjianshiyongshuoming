@@ -1,3 +1,6 @@
-# My Awesome Book
+## 1 概述
 
-This file file serves as your book's preface, a great place to describe your book's content and ideas.
+本系统主要是帮助经销商以及导购人员在门店进行产品销售，包含两部分内容：门店iPad App和门店管理后台。
+
+门店iPad app的主要功能是展示产品和样板间的信息；门店管理后台主要供经销商查看公司产品，管理自己的门店商品，如门店商品上下架、价格设置。
+
